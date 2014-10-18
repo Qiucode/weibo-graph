@@ -13,9 +13,9 @@ import re
 import json
 import base64
 import binascii
+import requests
 
 import rsa
-import requests
 
 
 wbclient = 'ssologin.js(v1.4.18)'
